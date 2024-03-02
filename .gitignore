@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Frontend/ESGSurvey.UI/node_modules
+/Frontend/ESGSurvey.UI/.vs
